@@ -1,2 +1,3 @@
-# Initab-clone-Chingu1
+# Pre-work: Landing page 
+
 Prework-clone a landing page
